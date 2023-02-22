@@ -9,6 +9,10 @@ npm run dev
 # or
 yarn dev
 ```
+Finally, Run in your browser:
+```bash
+http://localhost:8080
+```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
